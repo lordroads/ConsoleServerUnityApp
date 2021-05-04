@@ -1,0 +1,13 @@
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.exe
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.deps.json
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.runtimeconfig.json
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.runtimeconfig.dev.json
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.dll
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.pdb
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Release\netcoreapp3.1\ConsoleServerUnityApp.AssemblyInfoInputs.cache
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Release\netcoreapp3.1\ConsoleServerUnityApp.AssemblyInfo.cs
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Release\netcoreapp3.1\ConsoleServerUnityApp.csproj.CoreCompileInputs.cache
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Release\netcoreapp3.1\ConsoleServerUnityApp.dll
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Release\netcoreapp3.1\ConsoleServerUnityApp.pdb
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Release\netcoreapp3.1\ConsoleServerUnityApp.genruntimeconfig.cache
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Release\netcoreapp3.1\ConsoleServerUnityApp.csprojAssemblyReference.cache

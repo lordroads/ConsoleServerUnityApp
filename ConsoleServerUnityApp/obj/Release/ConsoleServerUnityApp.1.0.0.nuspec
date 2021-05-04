@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleServerUnityApp</id>
+    <version>1.0.0</version>
+    <authors>ConsoleServerUnityApp</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.runtimeconfig.json" target="lib\netcoreapp3.1\ConsoleServerUnityApp.runtimeconfig.json" />
+    <file src="D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Release\netcoreapp3.1\ConsoleServerUnityApp.dll" target="lib\netcoreapp3.1\ConsoleServerUnityApp.dll" />
+  </files>
+</package>
