@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ConsoleServerUnityApp/1.0.0": {
+        "dependencies": {
+          "SendInfoOLD": "1.0.0.0"
+        },
         "runtime": {
           "ConsoleServerUnityApp.dll": {}
+        }
+      },
+      "SendInfoOLD/1.0.0.0": {
+        "runtime": {
+          "SendInfoOLD.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "ConsoleServerUnityApp/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SendInfoOLD/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

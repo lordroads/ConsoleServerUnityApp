@@ -15,7 +15,7 @@ namespace ConsoleServerUnityApp
                 }
                 
 
-                Server server = new Server(Port: 90, Console.Out);
+                Server server = new Server(Port: 15000, Console.Out);
                 server.Work();
 
             Console.ReadLine();

@@ -11,4 +11,10 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="SendInfoOLD">
+      <HintPath>C:\Users\Vadim\source\repos\SendInfoOLD\SendInfoOLD\bin\Debug\SendInfoOLD.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

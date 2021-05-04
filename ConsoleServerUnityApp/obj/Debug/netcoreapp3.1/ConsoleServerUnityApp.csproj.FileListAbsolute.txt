@@ -11,3 +11,6 @@ D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUni
 D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Debug\netcoreapp3.1\ConsoleServerUnityApp.dll
 D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Debug\netcoreapp3.1\ConsoleServerUnityApp.pdb
 D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Debug\netcoreapp3.1\ConsoleServerUnityApp.genruntimeconfig.cache
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\obj\Debug\netcoreapp3.1\ConsoleServerUnityApp.csproj.CopyComplete
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Debug\netcoreapp3.1\SendInfoOLD.dll
+D:\Projects\Console\ConsoleServerUnityApp\ConsoleServerUnityApp\ConsoleServerUnityApp\bin\Debug\netcoreapp3.1\SendInfoOLD.pdb
